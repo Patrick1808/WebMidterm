@@ -13,6 +13,7 @@ h2{
 }
 
 #nav {
+  
   height: 15px;
   background-color: #2A2B2A;
   text-align: center;
@@ -37,6 +38,9 @@ img {
 
 .div{
   position: relative;
-  right: 50px;
-  border: #2A2B2A;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 400px;
+  height: 200px;
+  border: 2px #2A2B2A;
+
 }
