@@ -6,20 +6,37 @@
   font-size: 10px;
 }
 
-nav {
+h2{
+  text-align: right;
+  font-size: bold;
+
+}
+
+#nav {
   height: 15px;
+  background-color: #2A2B2A;
+  text-align: center;
+  position: sticky;
+  color: #e22856;
+  top: 0;
 }
 
 main {
-  background-color: #F8F4E3
-  height: 100vh;
+  background-color: #F8F4E3;
+  height: 200vh;
 }
 
 p {
-  color: 2A2B2A;
-  fontsize: 1.8rem;
+  color: #2A2B2A;
+  font-size: 1.8rem;
 }
 
 img {
   max-width: 400px;
+}
+
+.div{
+  position: relative;
+  right: 50px;
+  border: #2A2B2A;
 }
